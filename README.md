@@ -45,4 +45,4 @@ Parsed 20k+ semi-structured records into structured formats · Implemented MLE f
 
 ---
 
-📍 Melbourne, VIC  |  💼 [LinkedIn](https://linkedin.com/in/reshmasatheesh)  |  📬 Open to Data Analyst & Data Scientist roles
+📍 Melbourne, VIC  |  💼 [LinkedIn](https://linkedin.com/in/reshmassatheesh)  |  📬 Open to Data Analyst & Data Scientist roles
